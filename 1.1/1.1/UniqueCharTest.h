@@ -1,6 +1,5 @@
 class UniqueCharTest
 {
 public:
-	char test;
-	void print();
+	void testString(std::string S);
 };
